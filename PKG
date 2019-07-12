@@ -1,0 +1,7 @@
+git
+nginx
+postgresql96-server
+rabbitmq
+memcached
+redis
+

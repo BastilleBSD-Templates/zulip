@@ -1,0 +1,7 @@
+cd /root 
+wget https://www.zulip.org/dist/releases/zulip-server-latest.tar.gz
+tar -xf zulip-server-latest.tar.gz
+
+
+
+
